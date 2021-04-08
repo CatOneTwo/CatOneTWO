@@ -1,5 +1,3 @@
-### Hi there 👋
-
 CV student 👀
 
 📗 zhihu [Link](https://www.zhihu.com/people/han-yu-shan-72-62) 
