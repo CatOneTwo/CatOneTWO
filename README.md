@@ -7,8 +7,6 @@ CV student 👀
 📘 weixin 
 
 ![qrcode_for_gh_6da9c01f24d9_258](https://user-images.githubusercontent.com/37036415/115333404-2de03200-a1cc-11eb-9171-298079b0afd4.jpg)
-<img src="https://user-images.githubusercontent.com/37036415/115333404-2de03200-a1cc-11eb-9171-298079b0afd4.jpg" style="zoom:10%" />
-
 
 <!--
 **CatOneTwo/CatOneTWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
