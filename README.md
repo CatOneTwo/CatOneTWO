@@ -1,4 +1,7 @@
-CV student 👀
+CS PhD student 👩🏻‍💻
+
+Research interests: 
+- Computer vision / Weakly supervised learning / Collaborative perception
 
 📗 zhihu [Link](https://www.zhihu.com/people/han-yu-shan-72-62) 
 
