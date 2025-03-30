@@ -3,8 +3,6 @@ CS PhD student 👩🏻‍💻
 Research interests: 
 - Computer vision / Collaborative perception / Weakly supervised learning 
 
-📗 zhihu [Link](https://www.zhihu.com/people/han-yu-shan-72-62) 
-
 <!--
 **CatOneTwo/CatOneTWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
