@@ -1,4 +1,4 @@
-CS PhD student 👩🏻‍💻
+postdoc 👩🏻‍💻
 
 Research interests: 
 - Computer vision / Collaborative perception / Weakly supervised learning 
